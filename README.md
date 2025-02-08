@@ -27,13 +27,15 @@ I'm Harsh Peshwani – a passionate Computer Science student at Toronto Metropol
 
 🚀 Always learning and exploring new tools & technologies!
 
-🌱 Currently Learning
 
-🔹 Smalltalk & Comparative Programming Languages
+🌱 Currently Learning
 
 🔹 Advanced Data Modeling & Visualization Techniques
 
 🔹 AI & Machine Learning for Business Insights
+
+🔹 Web devlopement tools 
+
 
 📫 Connect With Me
 
