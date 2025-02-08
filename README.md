@@ -14,3 +14,31 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi there 👋
+
+I'm Harsh Peshwani – a passionate Computer Science student at Toronto Metropolitan University, with a keen interest in data analytics, visualization, and problem-solving. I love turning raw data into actionable insights and exploring new technologies!
+
+🚀 About Me
+
+💻 Computer Science Student | 📊 Data Enthusiast | 🛠 Tech Explorer
+
+🔍 Passionate about data analysis, business intelligence, and software development.
+
+📊 Skilled in SQL, Power BI, and Python for data-driven decision-making.
+
+🚀 Always learning and exploring new tools & technologies!
+
+🌱 Currently Learning
+
+🔹 Smalltalk & Comparative Programming Languages
+
+🔹 Advanced Data Modeling & Visualization Techniques
+
+🔹 AI & Machine Learning for Business Insights
+
+📫 Connect With Me
+
+💼 [LinkedIn](https://www.linkedin.com/in/harshpeshwani/)
+
+📧 harshpeshwani45@gmail.com
