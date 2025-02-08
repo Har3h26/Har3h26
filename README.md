@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi there 👋
-
-I'm Harsh Peshwani – a passionate Computer Science student at Toronto Metropolitan University, with a keen interest in data analytics, visualization, and problem-solving. I love turning raw data into actionable insights and exploring new technologies!
+I'm # Harsh Peshwani – a passionate Computer Science student at Toronto Metropolitan University, with a keen interest in data analytics, visualization, and problem-solving. I love turning raw data into actionable insights and exploring new technologies!
 
 🚀 About Me
 
