@@ -1,44 +1,74 @@
-## Hi there 👋
+# 👋 Hi, I'm Harsh Peshwani  
 
-<!--
-**Har3h26/Har3h26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Computer Science Co-op Student** at Toronto Metropolitan University  
+💻 Passionate about **software engineering**, **cloud-native development**, and **building scalable applications** that make an impact.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me  
 
-I'm Harsh Peshwani – a passionate Computer Science student at Toronto Metropolitan University, with a keen interest in data analytics, visualization, and problem-solving. I love turning raw data into actionable insights and exploring new technologies!
+I'm a detail-oriented developer with hands-on experience in **full-stack development**, **RESTful APIs**, and **cloud-native solutions**.  
+I enjoy solving real-world problems using technology, collaborating in Agile teams, and continuously learning new frameworks and tools.  
 
-🚀 About Me
+- 🧠 Strong foundations in **OOP**, **data structures**, and **software architecture**  
+- ⚙️ Experienced with **React, Node.js, Flask, Spring Boot**, and **Express.js**  
+- ☁️ Skilled in **AWS, GCP, Azure**, and **containerized deployments (Docker)**  
+- 🧩 Passionate about **AI integration** and **automation frameworks**  
 
-💻 Computer Science Student | 📊 Data Enthusiast | 🛠 Tech Explorer
+---
 
-🔍 Passionate about data analysis, business intelligence, and software development.
+## 🛠️ Technical Skills  
 
-📊 Skilled in SQL, Power BI, and Python for data-driven decision-making.
+**Languages & Tools:** Python, Java, JavaScript, SQL, HTML, CSS, Git, GitHub, REST APIs, JSON  
+**Frontend:** React, Angular, Redux, Context API, Responsive UI Design  
+**Backend:** Node.js, Flask, Spring Boot, Express.js, API Design, Microservices  
+**Databases:** PostgreSQL, MongoDB  
+**DevOps:** CI/CD (GitHub Actions, Jenkins), Docker, Cloud Platforms (AWS, GCP, Azure)  
+**Testing:** JUnit, PyTest, Playwright, Selenium  
+**Methodologies:** Agile, Scrum  
 
-🚀 Always learning and exploring new tools & technologies!
+---
 
+## 💼 Experience  
 
-🌱 Currently Learning
+**Software QA / Test Engineer Intern – SOTI Inc.** _(Sept 2025 – Present)_  
+- Developed and automated end-to-end test cases using **Playwright, Selenium, REST APIs, and SQL**.  
+- Collaborated with cross-functional teams in Agile sprints to ensure scalable enterprise-grade solutions.  
+- Enhanced CI/CD pipelines and automation frameworks to streamline continuous delivery.  
 
-🔹 Advanced Data Modeling & Visualization Techniques
+**Business System Engineer Intern – Quality Cheese Inc.** _(May 2025 – Sept 2025)_  
+- Designed and automated **data validation scripts** in SQL and Excel to improve traceability and compliance.  
+- Supported integration across ERP, production, and finance systems, improving data accuracy and workflow efficiency.  
 
-🔹 AI & Machine Learning for Business Insights
+---
 
-🔹 Web devlopement tools 
+## 🧠 Featured Projects  
 
+### 🗓️ Smart Study Planner with AI Recommendations  
+**Tech Stack:** React, TypeScript, Flask, Node.js, PostgreSQL, MongoDB, OpenAI API  
+- Built a full-stack platform that generates personalized study schedules using AI-driven recommendations.  
+- Integrated **OpenAI API** for adaptive learning insights and automated scheduling.  
+- Deployed on **AWS** using Docker with CI/CD pipelines for continuous updates.  
 
-📫 Connect With Me
+### 🌍 CivicMap – Interactive Geolocation Reporting Platform  
+**Tech Stack:** JavaScript, HTML/CSS, REST APIs, Mapbox, Figma  
+- Developed a dynamic web app for reporting civic issues with geolocation tagging and real-time map rendering.  
+- Implemented **input validation, image uploads, and duplicate detection** for accurate issue tracking.  
 
-💼 [LinkedIn](https://www.linkedin.com/in/harshpeshwani/)
+---
 
-📧 harshpeshwani45@gmail.com
+## 🌱 Currently Learning  
+- Advanced **software design patterns** and **system architecture**  
+- **AI & automation** for software testing and optimization  
+- Building scalable **microservices** with Spring Boot and Node.js  
+
+---
+
+## 📫 Connect With Me  
+🌐 [LinkedIn](https://www.linkedin.com/in/harshpeshwani)  
+💻 [GitHub](https://github.com/Har3h26)  
+📧 harsh.peshwani@torontomu.ca  
+
+---
+
+⭐️ *“Building reliable, scalable, and intelligent systems—one project at a time.”*  
